@@ -107,15 +107,16 @@ def display_image(dessert_name):
         "Queso y membrillo": "https://raw.githubusercontent.com/ghaziaskari/Postre/main/img/queso-membrillo.jpg"
     }
 
-    # Get the image URL for the dessert
+    # Get the correct URL from the mapping
     url = dessert_image_map.get(dessert_name)
 
     if url:
-        # If the URL exists, display the image
+        # Display the image if the URL is found
         st.image(url, caption=dessert_name, use_container_width=True)
     else:
-        # If the dessert is not in the map, show a message
+        # Show a warning if the dessert name is not in the map
         st.write(f"Image not found for: {dessert_name}")
+
 
 def main():
     """Main function to build the Streamlit app."""
