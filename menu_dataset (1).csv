@@ -1,0 +1,305 @@
+Género;Edad;Entrante;Primer Plato;Segundo Plato;Bebida;Postre
+Femenino;22;Croquetas;Macarrones;Pollo al curry;Agua;Helado
+Masculino;80;Espárragos;Lentejas;Chuletón;Cerveza;Brownie
+Masculino;41;Ensalada César;Sopa de pollo;Albóndigas;Vino tinto;Helado
+Masculino;60;Jamón;Paella;Bacalao;Cerveza;Helado
+Masculino;50;Ensaladilla;Menestra de verduras;Cachopo;Cerveza;Fruta fresca
+Masculino;89;Espárragos;Sopa de pollo;Bacalao;Cerveza;Tarta de queso
+Femenino;72;Gazpacho;Risotto;Bacalao;Vino tinto;Brownie
+Femenino;82;Ensaladilla;Sopa de pollo;Albóndigas;Refresco;Fruta fresca
+Masculino;50;Langostinos;Paella;Filete de ternera;Vino tinto;Flan
+Femenino;23;Ensaladilla;Paella;Cachopo;Refresco;Brownie
+Masculino;23;Ninguno;Risotto;Filete de ternera;Agua;Fruta fresca
+Femenino;40;Empanada;Macarrones;Bacalao;Cerveza;Queso y membrillo
+Femenino;41;Jamón;Arroz 3 delicias;Merluza al horno;Refresco;Brownie
+Masculino;86;Langostinos;Arroz 3 delicias;Filete de ternera;Vino tinto;Fruta fresca
+Masculino;28;Gazpacho;Paella;Bacalao;Refresco;Flan
+Femenino;90;Gazpacho;Arroz 3 delicias;Chuletón;Vino tinto;Helado
+Femenino;39;Ensalada César;Sopa de pollo;Chuletón;Refresco;Helado
+Femenino;31;Ensaladilla;Menestra de verduras;Pollo al curry;Agua;Fruta fresca
+Femenino;79;Espárragos;Paella;Bacalao;Cerveza;Flan
+Femenino;18;Gazpacho;Macarrones;Salmón;Vino blanco;Helado
+Femenino;81;Gazpacho;Macarrones;Cachopo;Agua;Helado
+Masculino;66;Ninguno;Lasaña;Pollo asado;Vino tinto;Queso y membrillo
+Masculino;87;Langostinos;Macarrones;Costillas BBQ;Vino tinto;Brownie
+Femenino;54;Gazpacho;Risotto;Costillas BBQ;Agua;Flan
+Masculino;47;Empanada;Menestra de verduras;Chuletón;Agua;Fruta fresca
+Masculino;54;Espárragos;Lasaña;Bacalao;Agua;Queso y membrillo
+Masculino;58;Ensaladilla;Sopa de pollo;Chuletón;Cerveza;Queso y membrillo
+Femenino;72;Ensalada César;Sopa de pollo;Chuletón;Agua;Fruta fresca
+Masculino;74;Ensaladilla;Menestra de verduras;Costillas BBQ;Cerveza;Brownie
+Masculino;85;Empanada;Lasaña;Salmón;Refresco;Flan
+Femenino;25;Empanada;Lentejas;Bacalao;Cerveza;Helado
+Femenino;18;Mejillones;Menestra de verduras;Chuletón;Cerveza;Tarta de queso
+Masculino;56;Ninguno;Lasaña;Chuletón;Agua;Queso y membrillo
+Masculino;86;Jamón;Garbanzos con espinacas;Filete de ternera;Refresco;Helado
+Masculino;65;Langostinos;Risotto;Pollo al curry;Refresco;Helado
+Femenino;28;Mejillones;Lentejas;Albóndigas;Refresco;Helado
+Masculino;33;Ninguno;Arroz 3 delicias;Chuletón;Vino blanco;Flan
+Masculino;75;Gazpacho;Garbanzos con espinacas;Filete de ternera;Vino tinto;Queso y membrillo
+Masculino;68;Ensalada César;Paella;Cachopo;Refresco;Flan
+Femenino;30;Mejillones;Lentejas;Filete de ternera;Vino blanco;Brownie
+Masculino;78;Jamón;Arroz 3 delicias;Albóndigas;Cerveza;Brownie
+Femenino;41;Langostinos;Crema de verduras;Filete de ternera;Refresco;Queso y membrillo
+Masculino;59;Mejillones;Crema de verduras;Cachopo;Cerveza;Helado
+Masculino;82;Ensalada César;Garbanzos con espinacas;Bacalao;Vino blanco;Brownie
+Masculino;45;Espárragos;Lentejas;Albóndigas;Vino tinto;Fruta fresca
+Masculino;78;Espárragos;Lentejas;Hamburguesa;Vino blanco;Fruta fresca
+Masculino;31;Empanada;Arroz 3 delicias;Pollo al curry;Refresco;Queso y membrillo
+Masculino;59;Ensalada César;Menestra de verduras;Cachopo;Vino blanco;Tarta de queso
+Masculino;40;Ensaladilla;Paella;Costillas BBQ;Cerveza;Brownie
+Masculino;67;Mejillones;Paella;Filete de ternera;Vino tinto;Brownie
+Masculino;73;Croquetas;Paella;Costillas BBQ;Vino tinto;Queso y membrillo
+Masculino;73;Empanada;Sopa de pollo;Pollo al curry;Vino tinto;Queso y membrillo
+Masculino;70;Espárragos;Lasaña;Costillas BBQ;Vino tinto;Queso y membrillo
+Femenino;61;Gazpacho;Macarrones;Merluza al horno;Vino tinto;Flan
+Femenino;81;Espárragos;Garbanzos con espinacas;Pollo al curry;Cerveza;Flan
+Masculino;21;Langostinos;Menestra de verduras;Albóndigas;Agua;Fruta fresca
+Masculino;60;Empanada;Garbanzos con espinacas;Albóndigas;Vino blanco;Queso y membrillo
+Masculino;80;Ensalada César;Paella;Costillas BBQ;Vino blanco;Flan
+Femenino;30;Espárragos;Garbanzos con espinacas;Cachopo;Vino tinto;Helado
+Femenino;37;Langostinos;Sopa de pollo;Merluza al horno;Refresco;Flan
+Femenino;45;Mejillones;Macarrones;Albóndigas;Vino tinto;Fruta fresca
+Femenino;57;Ensalada César;Arroz 3 delicias;Bacalao;Vino blanco;Helado
+Masculino;34;Ninguno;Lasaña;Chuletón;Refresco;Brownie
+Masculino;46;Croquetas;Risotto;Merluza al horno;Vino blanco;Queso y membrillo
+Femenino;72;Ensalada César;Arroz 3 delicias;Costillas BBQ;Vino tinto;Helado
+Masculino;63;Langostinos;Crema de verduras;Merluza al horno;Vino blanco;Queso y membrillo
+Masculino;20;Jamón;Crema de verduras;Pollo asado;Agua;Brownie
+Femenino;63;Mejillones;Crema de verduras;Cachopo;Cerveza;Fruta fresca
+Masculino;21;Gazpacho;Risotto;Chuletón;Refresco;Tarta de queso
+Femenino;34;Espárragos;Sopa de pollo;Costillas BBQ;Cerveza;Tarta de queso
+Masculino;52;Empanada;Macarrones;Albóndigas;Agua;Fruta fresca
+Femenino;75;Croquetas;Lasaña;Salmón;Refresco;Queso y membrillo
+Masculino;64;Ninguno;Sopa de pollo;Salmón;Agua;Helado
+Masculino;28;Ninguno;Menestra de verduras;Pollo asado;Refresco;Tarta de queso
+Masculino;58;Ninguno;Lasaña;Chuletón;Refresco;Flan
+Femenino;33;Ninguno;Menestra de verduras;Salmón;Refresco;Queso y membrillo
+Masculino;29;Ensalada César;Menestra de verduras;Salmón;Refresco;Helado
+Masculino;84;Ninguno;Garbanzos con espinacas;Costillas BBQ;Vino tinto;Helado
+Masculino;88;Ensalada César;Sopa de pollo;Salmón;Agua;Queso y membrillo
+Femenino;64;Langostinos;Garbanzos con espinacas;Merluza al horno;Vino blanco;Flan
+Femenino;26;Langostinos;Menestra de verduras;Pollo asado;Vino blanco;Fruta fresca
+Masculino;73;Ensalada César;Sopa de pollo;Salmón;Vino tinto;Flan
+Femenino;46;Ninguno;Risotto;Albóndigas;Refresco;Helado
+Femenino;71;Gazpacho;Lentejas;Cachopo;Agua;Tarta de queso
+Masculino;40;Gazpacho;Arroz 3 delicias;Bacalao;Agua;Helado
+Femenino;39;Gazpacho;Sopa de pollo;Filete de ternera;Vino tinto;Fruta fresca
+Masculino;74;Espárragos;Menestra de verduras;Filete de ternera;Refresco;Fruta fresca
+Femenino;82;Jamón;Garbanzos con espinacas;Albóndigas;Cerveza;Fruta fresca
+Masculino;61;Croquetas;Garbanzos con espinacas;Hamburguesa;Agua;Fruta fresca
+Femenino;69;Croquetas;Macarrones;Pollo al curry;Vino tinto;Flan
+Femenino;80;Ensaladilla;Menestra de verduras;Cachopo;Cerveza;Queso y membrillo
+Femenino;67;Empanada;Macarrones;Hamburguesa;Agua;Queso y membrillo
+Masculino;80;Ninguno;Risotto;Filete de ternera;Agua;Fruta fresca
+Masculino;30;Espárragos;Paella;Filete de ternera;Vino tinto;Brownie
+Femenino;50;Croquetas;Lentejas;Costillas BBQ;Vino tinto;Helado
+Masculino;22;Jamón;Risotto;Pollo al curry;Cerveza;Fruta fresca
+Masculino;63;Gazpacho;Paella;Bacalao;Vino tinto;Queso y membrillo
+Masculino;29;Espárragos;Menestra de verduras;Salmón;Refresco;Flan
+Masculino;24;Jamón;Risotto;Merluza al horno;Refresco;Brownie
+Masculino;28;Jamón;Menestra de verduras;Pollo asado;Vino blanco;Brownie
+Masculino;49;Ensalada César;Arroz 3 delicias;Pollo al curry;Refresco;Flan
+Femenino;79;Langostinos;Crema de verduras;Filete de ternera;Agua;Fruta fresca
+Femenino;60;Jamón;Sopa de pollo;Filete de ternera;Cerveza;Queso y membrillo
+Masculino;79;Langostinos;Lentejas;Cachopo;Refresco;Queso y membrillo
+Masculino;64;Langostinos;Sopa de pollo;Cachopo;Vino tinto;Queso y membrillo
+Masculino;70;Croquetas;Paella;Cachopo;Vino tinto;Tarta de queso
+Femenino;25;Ensaladilla;Garbanzos con espinacas;Filete de ternera;Agua;Fruta fresca
+Masculino;84;Empanada;Risotto;Costillas BBQ;Refresco;Queso y membrillo
+Masculino;28;Mejillones;Menestra de verduras;Filete de ternera;Agua;Fruta fresca
+Femenino;54;Langostinos;Risotto;Hamburguesa;Vino tinto;Helado
+Femenino;20;Espárragos;Sopa de pollo;Bacalao;Cerveza;Tarta de queso
+Femenino;24;Empanada;Risotto;Bacalao;Agua;Brownie
+Femenino;72;Espárragos;Sopa de pollo;Cachopo;Vino tinto;Brownie
+Femenino;90;Gazpacho;Crema de verduras;Salmón;Refresco;Brownie
+Femenino;45;Jamón;Menestra de verduras;Cachopo;Cerveza;Tarta de queso
+Masculino;66;Jamón;Lentejas;Hamburguesa;Refresco;Brownie
+Masculino;50;Croquetas;Lentejas;Pollo asado;Vino tinto;Queso y membrillo
+Femenino;88;Ensalada César;Arroz 3 delicias;Cachopo;Cerveza;Fruta fresca
+Masculino;81;Empanada;Paella;Cachopo;Refresco;Flan
+Masculino;45;Jamón;Menestra de verduras;Albóndigas;Cerveza;Helado
+Masculino;36;Langostinos;Arroz 3 delicias;Costillas BBQ;Vino blanco;Queso y membrillo
+Masculino;71;Croquetas;Paella;Hamburguesa;Vino blanco;Flan
+Masculino;63;Espárragos;Sopa de pollo;Merluza al horno;Agua;Helado
+Femenino;62;Ensalada César;Lasaña;Pollo asado;Vino tinto;Fruta fresca
+Masculino;64;Empanada;Arroz 3 delicias;Costillas BBQ;Cerveza;Flan
+Femenino;74;Empanada;Garbanzos con espinacas;Merluza al horno;Vino tinto;Tarta de queso
+Masculino;73;Langostinos;Sopa de pollo;Hamburguesa;Cerveza;Brownie
+Femenino;87;Croquetas;Garbanzos con espinacas;Salmón;Refresco;Tarta de queso
+Masculino;86;Gazpacho;Arroz 3 delicias;Cachopo;Vino blanco;Queso y membrillo
+Femenino;18;Langostinos;Paella;Bacalao;Cerveza;Tarta de queso
+Femenino;39;Mejillones;Lentejas;Chuletón;Vino blanco;Flan
+Femenino;40;Ensalada César;Garbanzos con espinacas;Cachopo;Vino tinto;Flan
+Femenino;21;Mejillones;Arroz 3 delicias;Chuletón;Cerveza;Queso y membrillo
+Masculino;56;Ensaladilla;Arroz 3 delicias;Filete de ternera;Vino blanco;Flan
+Femenino;21;Jamón;Risotto;Merluza al horno;Vino blanco;Queso y membrillo
+Masculino;33;Ninguno;Arroz 3 delicias;Hamburguesa;Refresco;Queso y membrillo
+Femenino;55;Ninguno;Sopa de pollo;Pollo asado;Vino tinto;Queso y membrillo
+Masculino;84;Espárragos;Paella;Cachopo;Vino blanco;Brownie
+Masculino;73;Espárragos;Lasaña;Pollo al curry;Cerveza;Tarta de queso
+Femenino;55;Empanada;Lasaña;Filete de ternera;Agua;Queso y membrillo
+Masculino;41;Jamón;Crema de verduras;Pollo asado;Vino tinto;Tarta de queso
+Femenino;71;Empanada;Paella;Salmón;Refresco;Tarta de queso
+Masculino;20;Gazpacho;Sopa de pollo;Salmón;Vino blanco;Flan
+Masculino;51;Ninguno;Menestra de verduras;Pollo al curry;Refresco;Queso y membrillo
+Femenino;37;Empanada;Macarrones;Filete de ternera;Vino tinto;Fruta fresca
+Femenino;60;Espárragos;Lentejas;Filete de ternera;Vino tinto;Tarta de queso
+Femenino;85;Empanada;Lasaña;Chuletón;Vino blanco;Helado
+Masculino;22;Mejillones;Garbanzos con espinacas;Costillas BBQ;Cerveza;Queso y membrillo
+Masculino;54;Langostinos;Macarrones;Merluza al horno;Vino blanco;Tarta de queso
+Femenino;28;Jamón;Lasaña;Bacalao;Vino blanco;Fruta fresca
+Masculino;71;Ensaladilla;Garbanzos con espinacas;Hamburguesa;Vino tinto;Queso y membrillo
+Femenino;38;Ensaladilla;Arroz 3 delicias;Hamburguesa;Vino tinto;Queso y membrillo
+Masculino;25;Empanada;Garbanzos con espinacas;Chuletón;Refresco;Tarta de queso
+Femenino;69;Gazpacho;Arroz 3 delicias;Albóndigas;Cerveza;Brownie
+Masculino;85;Ensaladilla;Paella;Albóndigas;Vino blanco;Tarta de queso
+Masculino;83;Ensaladilla;Lasaña;Merluza al horno;Vino tinto;Tarta de queso
+Masculino;22;Ninguno;Arroz 3 delicias;Pollo al curry;Agua;Flan
+Masculino;45;Ensaladilla;Lentejas;Merluza al horno;Vino tinto;Fruta fresca
+Masculino;34;Croquetas;Sopa de pollo;Salmón;Refresco;Helado
+Masculino;69;Gazpacho;Arroz 3 delicias;Salmón;Vino blanco;Fruta fresca
+Femenino;44;Croquetas;Sopa de pollo;Filete de ternera;Refresco;Tarta de queso
+Masculino;68;Gazpacho;Menestra de verduras;Cachopo;Refresco;Helado
+Masculino;50;Empanada;Sopa de pollo;Chuletón;Cerveza;Tarta de queso
+Femenino;21;Langostinos;Macarrones;Pollo al curry;Vino blanco;Fruta fresca
+Masculino;42;Ensalada César;Macarrones;Pollo asado;Agua;Flan
+Masculino;85;Ninguno;Arroz 3 delicias;Albóndigas;Vino blanco;Brownie
+Femenino;55;Empanada;Sopa de pollo;Albóndigas;Agua;Flan
+Femenino;49;Langostinos;Risotto;Albóndigas;Vino tinto;Queso y membrillo
+Femenino;89;Langostinos;Risotto;Chuletón;Vino blanco;Tarta de queso
+Femenino;57;Mejillones;Lentejas;Costillas BBQ;Agua;Helado
+Masculino;71;Ninguno;Risotto;Hamburguesa;Vino blanco;Helado
+Femenino;49;Jamón;Crema de verduras;Salmón;Refresco;Brownie
+Masculino;81;Gazpacho;Risotto;Filete de ternera;Vino blanco;Fruta fresca
+Femenino;39;Langostinos;Risotto;Filete de ternera;Cerveza;Fruta fresca
+Masculino;56;Croquetas;Macarrones;Chuletón;Vino blanco;Flan
+Femenino;47;Croquetas;Crema de verduras;Merluza al horno;Refresco;Tarta de queso
+Masculino;57;Espárragos;Garbanzos con espinacas;Hamburguesa;Agua;Brownie
+Femenino;38;Ninguno;Paella;Bacalao;Agua;Fruta fresca
+Femenino;26;Ninguno;Lasaña;Pollo al curry;Refresco;Fruta fresca
+Masculino;86;Jamón;Menestra de verduras;Filete de ternera;Vino blanco;Flan
+Masculino;33;Espárragos;Sopa de pollo;Salmón;Vino blanco;Helado
+Femenino;84;Ensalada César;Macarrones;Bacalao;Refresco;Flan
+Femenino;26;Ninguno;Risotto;Merluza al horno;Vino blanco;Tarta de queso
+Masculino;64;Croquetas;Macarrones;Albóndigas;Refresco;Tarta de queso
+Femenino;57;Langostinos;Macarrones;Filete de ternera;Refresco;Fruta fresca
+Masculino;86;Croquetas;Lasaña;Costillas BBQ;Vino blanco;Queso y membrillo
+Femenino;18;Gazpacho;Arroz 3 delicias;Bacalao;Agua;Fruta fresca
+Femenino;42;Ensaladilla;Risotto;Filete de ternera;Refresco;Queso y membrillo
+Femenino;87;Langostinos;Menestra de verduras;Bacalao;Agua;Fruta fresca
+Femenino;47;Empanada;Lentejas;Hamburguesa;Vino blanco;Brownie
+Masculino;35;Ninguno;Paella;Cachopo;Vino blanco;Brownie
+Femenino;25;Espárragos;Menestra de verduras;Bacalao;Vino tinto;Queso y membrillo
+Femenino;35;Ensaladilla;Garbanzos con espinacas;Albóndigas;Agua;Tarta de queso
+Masculino;22;Langostinos;Garbanzos con espinacas;Merluza al horno;Vino tinto;Queso y membrillo
+Masculino;38;Langostinos;Macarrones;Cachopo;Vino blanco;Brownie
+Masculino;24;Croquetas;Macarrones;Filete de ternera;Cerveza;Fruta fresca
+Masculino;61;Croquetas;Lasaña;Costillas BBQ;Agua;Tarta de queso
+Masculino;77;Ensaladilla;Arroz 3 delicias;Albóndigas;Cerveza;Flan
+Masculino;90;Gazpacho;Arroz 3 delicias;Cachopo;Vino tinto;Flan
+Femenino;79;Empanada;Risotto;Costillas BBQ;Vino tinto;Helado
+Femenino;57;Langostinos;Sopa de pollo;Albóndigas;Agua;Fruta fresca
+Masculino;44;Ninguno;Macarrones;Cachopo;Vino blanco;Queso y membrillo
+Femenino;35;Gazpacho;Lentejas;Albóndigas;Cerveza;Flan
+Masculino;23;Gazpacho;Lasaña;Albóndigas;Cerveza;Brownie
+Femenino;40;Croquetas;Menestra de verduras;Pollo asado;Vino tinto;Queso y membrillo
+Masculino;50;Ninguno;Arroz 3 delicias;Chuletón;Agua;Fruta fresca
+Femenino;38;Ensaladilla;Menestra de verduras;Filete de ternera;Refresco;Fruta fresca
+Femenino;75;Ensalada César;Menestra de verduras;Filete de ternera;Agua;Fruta fresca
+Femenino;78;Ensaladilla;Paella;Hamburguesa;Cerveza;Tarta de queso
+Femenino;50;Mejillones;Lasaña;Merluza al horno;Cerveza;Fruta fresca
+Masculino;64;Empanada;Arroz 3 delicias;Filete de ternera;Vino tinto;Queso y membrillo
+Femenino;52;Jamón;Menestra de verduras;Merluza al horno;Agua;Fruta fresca
+Masculino;43;Jamón;Risotto;Filete de ternera;Refresco;Queso y membrillo
+Femenino;72;Jamón;Risotto;Pollo asado;Vino tinto;Helado
+Femenino;48;Ensaladilla;Crema de verduras;Pollo asado;Vino blanco;Tarta de queso
+Femenino;30;Croquetas;Garbanzos con espinacas;Albóndigas;Vino blanco;Brownie
+Femenino;33;Croquetas;Sopa de pollo;Hamburguesa;Cerveza;Helado
+Femenino;22;Mejillones;Arroz 3 delicias;Costillas BBQ;Agua;Fruta fresca
+Masculino;31;Ninguno;Lentejas;Albóndigas;Vino tinto;Tarta de queso
+Masculino;38;Jamón;Macarrones;Salmón;Cerveza;Brownie
+Masculino;79;Espárragos;Macarrones;Salmón;Vino blanco;Brownie
+Femenino;23;Jamón;Sopa de pollo;Salmón;Refresco;Flan
+Masculino;84;Jamón;Paella;Filete de ternera;Cerveza;Flan
+Femenino;44;Empanada;Paella;Salmón;Agua;Helado
+Femenino;57;Mejillones;Menestra de verduras;Merluza al horno;Agua;Fruta fresca
+Masculino;68;Gazpacho;Paella;Bacalao;Cerveza;Flan
+Masculino;34;Ninguno;Crema de verduras;Hamburguesa;Vino tinto;Helado
+Femenino;56;Ensalada César;Risotto;Chuletón;Cerveza;Tarta de queso
+Masculino;27;Langostinos;Macarrones;Albóndigas;Agua;Queso y membrillo
+Masculino;75;Jamón;Crema de verduras;Merluza al horno;Cerveza;Queso y membrillo
+Masculino;42;Mejillones;Crema de verduras;Bacalao;Cerveza;Flan
+Femenino;87;Ensaladilla;Menestra de verduras;Albóndigas;Refresco;Fruta fresca
+Masculino;81;Gazpacho;Lasaña;Pollo asado;Agua;Brownie
+Masculino;43;Ensalada César;Risotto;Albóndigas;Vino blanco;Queso y membrillo
+Masculino;45;Empanada;Risotto;Cachopo;Refresco;Flan
+Femenino;76;Mejillones;Lentejas;Bacalao;Agua;Fruta fresca
+Masculino;79;Mejillones;Garbanzos con espinacas;Chuletón;Cerveza;Brownie
+Masculino;54;Croquetas;Garbanzos con espinacas;Chuletón;Cerveza;Flan
+Femenino;37;Espárragos;Paella;Hamburguesa;Vino blanco;Tarta de queso
+Femenino;40;Ensalada César;Arroz 3 delicias;Merluza al horno;Vino blanco;Fruta fresca
+Masculino;33;Mejillones;Paella;Pollo al curry;Vino blanco;Tarta de queso
+Femenino;61;Mejillones;Sopa de pollo;Chuletón;Vino blanco;Flan
+Masculino;41;Espárragos;Menestra de verduras;Albóndigas;Agua;Helado
+Femenino;32;Gazpacho;Crema de verduras;Salmón;Refresco;Flan
+Masculino;26;Ensaladilla;Sopa de pollo;Merluza al horno;Agua;Brownie
+Masculino;27;Ensaladilla;Lentejas;Albóndigas;Agua;Brownie
+Femenino;57;Jamón;Arroz 3 delicias;Cachopo;Cerveza;Helado
+Femenino;85;Empanada;Sopa de pollo;Pollo asado;Refresco;Fruta fresca
+Femenino;48;Ensalada César;Garbanzos con espinacas;Pollo asado;Vino blanco;Brownie
+Masculino;49;Jamón;Risotto;Albóndigas;Vino tinto;Brownie
+Masculino;40;Ensaladilla;Lasaña;Albóndigas;Vino blanco;Brownie
+Femenino;74;Gazpacho;Sopa de pollo;Cachopo;Cerveza;Flan
+Femenino;61;Croquetas;Risotto;Merluza al horno;Cerveza;Queso y membrillo
+Masculino;55;Espárragos;Lasaña;Albóndigas;Refresco;Flan
+Masculino;31;Ninguno;Macarrones;Cachopo;Refresco;Flan
+Femenino;45;Jamón;Garbanzos con espinacas;Cachopo;Refresco;Fruta fresca
+Masculino;75;Mejillones;Lentejas;Albóndigas;Vino blanco;Tarta de queso
+Masculino;30;Gazpacho;Sopa de pollo;Salmón;Agua;Fruta fresca
+Masculino;68;Mejillones;Menestra de verduras;Hamburguesa;Cerveza;Queso y membrillo
+Femenino;59;Empanada;Lasaña;Pollo al curry;Refresco;Helado
+Femenino;65;Langostinos;Arroz 3 delicias;Pollo al curry;Vino blanco;Tarta de queso
+Masculino;34;Jamón;Sopa de pollo;Albóndigas;Vino tinto;Flan
+Masculino;76;Jamón;Arroz 3 delicias;Bacalao;Agua;Flan
+Masculino;66;Mejillones;Crema de verduras;Merluza al horno;Agua;Brownie
+Masculino;42;Gazpacho;Lentejas;Cachopo;Cerveza;Helado
+Masculino;22;Ninguno;Arroz 3 delicias;Cachopo;Vino blanco;Helado
+Masculino;49;Jamón;Risotto;Pollo asado;Cerveza;Queso y membrillo
+Femenino;59;Ensaladilla;Sopa de pollo;Chuletón;Cerveza;Brownie
+Masculino;44;Croquetas;Risotto;Merluza al horno;Cerveza;Fruta fresca
+Femenino;47;Langostinos;Lentejas;Albóndigas;Refresco;Queso y membrillo
+Masculino;70;Ensalada César;Arroz 3 delicias;Merluza al horno;Vino tinto;Helado
+Femenino;53;Gazpacho;Arroz 3 delicias;Cachopo;Refresco;Helado
+Masculino;58;Mejillones;Arroz 3 delicias;Hamburguesa;Vino tinto;Tarta de queso
+Femenino;53;Ninguno;Menestra de verduras;Bacalao;Vino tinto;Tarta de queso
+Femenino;73;Ensalada César;Lasaña;Salmón;Refresco;Flan
+Femenino;49;Jamón;Sopa de pollo;Chuletón;Agua;Queso y membrillo
+Femenino;58;Langostinos;Paella;Costillas BBQ;Agua;Helado
+Femenino;29;Empanada;Crema de verduras;Merluza al horno;Refresco;Queso y membrillo
+Masculino;62;Ninguno;Crema de verduras;Cachopo;Vino blanco;Helado
+Femenino;72;Ensalada César;Crema de verduras;Chuletón;Cerveza;Brownie
+Femenino;74;Jamón;Garbanzos con espinacas;Filete de ternera;Agua;Flan
+Masculino;45;Mejillones;Garbanzos con espinacas;Filete de ternera;Vino tinto;Brownie
+Masculino;66;Jamón;Lasaña;Cachopo;Cerveza;Helado
+Masculino;54;Ensalada César;Risotto;Chuletón;Refresco;Fruta fresca
+Femenino;35;Langostinos;Risotto;Chuletón;Agua;Queso y membrillo
+Femenino;29;Mejillones;Menestra de verduras;Bacalao;Vino tinto;Helado
+Masculino;49;Ensalada César;Sopa de pollo;Merluza al horno;Vino blanco;Flan
+Femenino;42;Ensaladilla;Garbanzos con espinacas;Chuletón;Vino blanco;Flan
+Femenino;30;Espárragos;Crema de verduras;Merluza al horno;Refresco;Tarta de queso
+Masculino;49;Mejillones;Risotto;Albóndigas;Vino tinto;Flan
+Masculino;54;Mejillones;Garbanzos con espinacas;Filete de ternera;Vino tinto;Fruta fresca
+Masculino;31;Jamón;Lasaña;Bacalao;Vino tinto;Flan
+Femenino;75;Empanada;Lentejas;Chuletón;Vino tinto;Flan
+Masculino;77;Mejillones;Lasaña;Costillas BBQ;Agua;Flan
+Masculino;25;Ensalada César;Arroz 3 delicias;Filete de ternera;Agua;Tarta de queso
+Masculino;26;Espárragos;Garbanzos con espinacas;Hamburguesa;Cerveza;Helado
+Femenino;81;Mejillones;Arroz 3 delicias;Albóndigas;Vino tinto;Flan
+Femenino;73;Jamón;Lentejas;Merluza al horno;Agua;Helado
+Masculino;88;Croquetas;Sopa de pollo;Bacalao;Cerveza;Helado
+Masculino;45;Ninguno;Paella;Pollo asado;Refresco;Queso y membrillo
+Masculino;25;Empanada;Risotto;Albóndigas;Cerveza;Brownie
+Masculino;47;Empanada;Risotto;Chuletón;Cerveza;Flan
+Masculino;27;Croquetas;Lasaña;Merluza al horno;Agua;Flan
+Femenino;34;Ensaladilla;Paella;Hamburguesa;Agua;Brownie
