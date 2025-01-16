@@ -103,7 +103,7 @@ def display_image(dessert_name):
         "Helado": "https://raw.githubusercontent.com/ghaziaskari/Postre/main/img/helado.jpg",
         "Fruta fresca": "https://raw.githubusercontent.com/ghaziaskari/Postre/main/img/fruta-fresca.jpg",
         "Tarta de queso": "https://raw.githubusercontent.com/ghaziaskari/Postre/main/img/tarta-queso.jpg",
-        "Brownie": "https://raw.githubusercontent.com/ghaziaskari/Postre/main/img/brownie.jpg",
+        "brownie.jpg": "https://raw.githubusercontent.com/ghaziaskari/Postre/main/img/brownie.jpg",
         "Queso y membrillo": "https://raw.githubusercontent.com/ghaziaskari/Postre/main/img/queso-membrillo.jpg"
     }
 
