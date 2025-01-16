@@ -99,12 +99,12 @@ def predict_dessert(model, user_inputs, columns):
 def display_image(dessert_name):
     """Display an image for a dessert using the raw URL."""
     dessert_image_map = {
-        "Flan": "https://raw.githubusercontent.com/ghaziaskari/Postre/main/img/flan.jpg",
-        "Helado": "https://raw.githubusercontent.com/ghaziaskari/Postre/main/img/helado.jpg",
-        "Fruta fresca": "https://raw.githubusercontent.com/ghaziaskari/Postre/main/img/fruta-fresca.jpg",
-        "Tarta de queso": "https://raw.githubusercontent.com/ghaziaskari/Postre/main/img/tarta-queso.jpg",
+        "flan.jpg": "https://raw.githubusercontent.com/ghaziaskari/Postre/main/img/flan.jpg",
+        "helado.jpg": "https://raw.githubusercontent.com/ghaziaskari/Postre/main/img/helado.jpg",
+        "fruta-fresca.jpg": "https://raw.githubusercontent.com/ghaziaskari/Postre/main/img/fruta-fresca.jpg",
+        "tarta-queso.jpg": "https://raw.githubusercontent.com/ghaziaskari/Postre/main/img/tarta-queso.jpg",
         "brownie.jpg": "https://raw.githubusercontent.com/ghaziaskari/Postre/main/img/brownie.jpg",
-        "Queso y membrillo": "https://raw.githubusercontent.com/ghaziaskari/Postre/main/img/queso-membrillo.jpg"
+        "queso-membrillo.jpg": "https://raw.githubusercontent.com/ghaziaskari/Postre/main/img/queso-membrillo.jpg"
     }
 
     # Get the correct URL from the mapping
