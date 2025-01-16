@@ -102,9 +102,9 @@ def display_image(dessert_name):
         "flan.jpg": "https://raw.githubusercontent.com/ghaziaskari/Postre/main/img/flan.jpg",
         "helado.jpg": "https://raw.githubusercontent.com/ghaziaskari/Postre/main/img/helado.jpg",
         "fruta-fresca.jpg": "https://raw.githubusercontent.com/ghaziaskari/Postre/main/img/fruta-fresca.jpg",
-        "tarta-queso.jpg": "https://raw.githubusercontent.com/ghaziaskari/Postre/main/img/tarta-queso.jpg",
+        "tarta-de-queso.jpg": "https://raw.githubusercontent.com/ghaziaskari/Postre/main/img/tarta-queso.jpg",
         "brownie.jpg": "https://raw.githubusercontent.com/ghaziaskari/Postre/main/img/brownie.jpg",
-        "queso-membrillo.jpg": "https://raw.githubusercontent.com/ghaziaskari/Postre/main/img/queso-membrillo.jpg"
+        "queso-y-membrillo.jpg": "https://raw.githubusercontent.com/ghaziaskari/Postre/main/img/queso-membrillo.jpg"
     }
 
     # Get the correct URL from the mapping
