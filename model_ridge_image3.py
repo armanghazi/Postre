@@ -104,18 +104,18 @@ def display_image(dessert_name):
         "Fruta fresca": "https://raw.githubusercontent.com/ghaziaskari/Postre/main/img/fruta-fresca.jpg",
         "Tarta de queso": "https://raw.githubusercontent.com/ghaziaskari/Postre/main/img/tarta-queso.jpg",
         "Brownie": "https://raw.githubusercontent.com/ghaziaskari/Postre/main/img/brownie.jpg",
-        "Queso y membrillo": "https://raw.githubusercontent.com/ghaziaskari/Postre/main/img/queso-membrillo.jpg",
-        "default": "https://raw.githubusercontent.com/ghaziaskari/Postre/main/img/default.jpg"
+        "Queso y membrillo": "https://raw.githubusercontent.com/ghaziaskari/Postre/main/img/queso-membrillo.jpg"
     }
 
-    # Get the URL for the dessert image
-    url = dessert_image_map.get(dessert_name, dessert_image_map["default"])
+    # Get the image URL for the dessert
+    url = dessert_image_map.get(dessert_name)
 
-    # Debugging: Print the URL (Optional)
-    st.write(f"Image URL: {url}")
-
-    # Display the image
-    st.image(url, caption=dessert_name, use_container_width=True)
+    if url:
+        # If the URL exists, display the image
+        st.image(url, caption=dessert_name, use_container_width=True)
+    else:
+        # If the dessert is not in the map, show a message
+        st.write(f"Image not found for: {dessert_name}")
 
 def main():
     """Main function to build the Streamlit app."""
