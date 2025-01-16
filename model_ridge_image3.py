@@ -96,14 +96,23 @@ def predict_dessert(model, user_inputs, columns):
     }
     return reverse_postre_cat[prediction]
 
-def display_image(filename):
-    """Display an image given the filename."""
-    image_path = os.path.join(IMG_PATH, filename)
-    if os.path.exists(image_path):
-        image = Image.open(image_path)
-        st.image(image, caption=filename.split('.')[0], use_container_width=True)
-    else:
-        st.write("Image not found!")
+def display_image(dessert_name):
+    """Display an image for a dessert using the raw URL."""
+    dessert_image_map = {
+        "Flan": "https://raw.githubusercontent.com/ghaziaskari/Postre/main/img/flan.jpg",
+        "Helado": "https://raw.githubusercontent.com/ghaziaskari/Postre/main/img/helado.jpg",
+        "Fruta fresca": "https://raw.githubusercontent.com/ghaziaskari/Postre/main/img/frutafresca.jpg",
+        "Tarta de queso": "https://raw.githubusercontent.com/ghaziaskari/Postre/main/img/tartadequeso.jpg",
+        "Brownie": "https://raw.githubusercontent.com/ghaziaskari/Postre/main/img/brownie.jpg",
+        "Queso y membrillo": "https://raw.githubusercontent.com/ghaziaskari/Postre/main/img/quesoymembrillo.jpg"
+    }
+
+    # Get the image URL from the mapping, or use the default image
+    url = dessert_image_map.get(dessert_name, "https://raw.githubusercontent.com/ghaziaskari/Postre/main/img/default.jpg")
+    
+    # Display the image using Streamlit
+    st.image(url, caption=dessert_name, use_column_width=True)
+
 
 def main():
     """Main function to build the Streamlit app."""
