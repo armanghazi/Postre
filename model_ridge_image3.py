@@ -101,17 +101,21 @@ def display_image(dessert_name):
     dessert_image_map = {
         "Flan": "https://raw.githubusercontent.com/ghaziaskari/Postre/main/img/flan.jpg",
         "Helado": "https://raw.githubusercontent.com/ghaziaskari/Postre/main/img/helado.jpg",
-        "Fruta fresca": "https://raw.githubusercontent.com/ghaziaskari/Postre/main/img/frutafresca.jpg",
-        "Tarta de queso": "https://raw.githubusercontent.com/ghaziaskari/Postre/main/img/tartadequeso.jpg",
+        "Fruta fresca": "https://raw.githubusercontent.com/ghaziaskari/Postre/main/img/fruta-fresca.jpg",
+        "Tarta de queso": "https://raw.githubusercontent.com/ghaziaskari/Postre/main/img/tarta-queso.jpg",
         "Brownie": "https://raw.githubusercontent.com/ghaziaskari/Postre/main/img/brownie.jpg",
-        "Queso y membrillo": "https://raw.githubusercontent.com/ghaziaskari/Postre/main/img/quesoymembrillo.jpg",
+        "Queso y membrillo": "https://raw.githubusercontent.com/ghaziaskari/Postre/main/img/queso-membrillo.jpg",
         "default": "https://raw.githubusercontent.com/ghaziaskari/Postre/main/img/default.jpg"
     }
 
+    # Get the URL for the dessert image
     url = dessert_image_map.get(dessert_name, dessert_image_map["default"])
+
+    # Debugging: Print the URL (Optional)
+    st.write(f"Image URL: {url}")
+
+    # Display the image
     st.image(url, caption=dessert_name, use_container_width=True)
-
-
 
 def main():
     """Main function to build the Streamlit app."""
