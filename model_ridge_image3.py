@@ -113,7 +113,7 @@ def main():
     st.write("Esta aplicación entrena un clasificador Ridge para predecir categorías de postres y mostrar imágenes relacionadas.")
 
     # Load dataset
-    file_path = "menu_dataset.csv"
+    file_path = "menu_dataset (1).csv"
 
     if file_path and st.button("Cargar y entrenar"):
         data = load_data(file_path)
