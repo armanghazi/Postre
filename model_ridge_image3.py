@@ -101,16 +101,14 @@ def display_image(dessert_name):
     dessert_image_map = {
         "Flan": "https://raw.githubusercontent.com/ghaziaskari/Postre/main/img/flan.jpg",
         "Helado": "https://raw.githubusercontent.com/ghaziaskari/Postre/main/img/helado.jpg",
-        "Fruta fresca": "https://raw.githubusercontent.com/ghaziaskari/Postre/main/img/fruta-fresca.jpg",
-        "Tarta de queso": "https://raw.githubusercontent.com/ghaziaskari/Postre/main/img/tarta-queso.jpg",
+        "Fruta fresca": "https://raw.githubusercontent.com/ghaziaskari/Postre/main/img/frutafresca.jpg",
+        "Tarta de queso": "https://raw.githubusercontent.com/ghaziaskari/Postre/main/img/tartadequeso.jpg",
         "Brownie": "https://raw.githubusercontent.com/ghaziaskari/Postre/main/img/brownie.jpg",
-        "Queso y membrillo": "https://raw.githubusercontent.com/ghaziaskari/Postre/main/img/queso-membrillo.jpg"
+        "Queso y membrillo": "https://raw.githubusercontent.com/ghaziaskari/Postre/main/img/quesoymembrillo.jpg",
+        "default": "https://raw.githubusercontent.com/ghaziaskari/Postre/main/img/default.jpg"
     }
 
-    # Get the image URL from the mapping, or use the default image
-    url = dessert_image_map.get(dessert_name, "https://raw.githubusercontent.com/ghaziaskari/Postre/main/img/default.jpg")
-    
-    # Display the image using Streamlit
+    url = dessert_image_map.get(dessert_name, dessert_image_map["default"])
     st.image(url, caption=dessert_name, use_container_width=True)
 
 
