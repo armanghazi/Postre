@@ -8,7 +8,7 @@ from sklearn.metrics import accuracy_score, f1_score, recall_score
 import os
 
 # Define the path for images
-IMG_PATH = "F:/00BBK/27-10/2409_dsft_thebridge_core/4-Data_Engineering/3-Streamlit/img"
+IMG_PATH = "img"
 
 def load_data(filepath):
     """Load and preprocess the menu dataset."""
@@ -113,7 +113,7 @@ def main():
     st.write("Esta aplicación entrena un clasificador Ridge para predecir categorías de postres y mostrar imágenes relacionadas.")
 
     # Load dataset
-    file_path = st.text_input("Introduzca la ruta del archivo del conjunto de datos:", value="F:/00BBK/API/menu_dataset (1).csv")
+    file_path = "menu_dataset.csv"
 
     if file_path and st.button("Cargar y entrenar"):
         data = load_data(file_path)
