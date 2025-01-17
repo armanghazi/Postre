@@ -162,7 +162,7 @@ def main():
         st.subheader("Predice tu postre")
 
         genero = st.selectbox("Elige tu Género", ["Femenino", "Masculino"], key="genero")
-        edad = st.slider("Elige tu Edad", min_value=18, max_value=99, value=25, step=1, key="edad")
+        edad = st.slider("Elige tu Edad", min_value=18, max_value=99, value=47, step=1, key="edad")
         entrante = st.selectbox("Elige tu Entrante", ["Ninguno","Croquetas", "Espárragos", "Ensalada César", "Jamón", "Ensaladilla", "Gazpacho", "Langostinos",  "Empanada", "Mejillones"], key="entrante")
         primer_plato = st.selectbox("Elige tu Primer Plato", ["Macarrones", "Lentejas", "Sopa de pollo", "Paella", "Menestra de verduras", "Risotto", "Arroz 3 delicias", "Lasaña", "Garbanzos con espinacas", "Crema de verduras"], key="primer_plato")
         segundo_plato = st.selectbox("Elige tu Segundo Plato", ["Pollo al curry", "Chuletón", "Albóndigas", "Bacalao", "Cachopo", "Filete de ternera", "Merluza al horno", "Salmón", "Pollo asado", "Costillas BBQ", "Hamburguesa"], key="segundo_plato")
