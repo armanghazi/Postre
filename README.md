@@ -62,7 +62,7 @@ This project is licensed under the MIT License.
 
 
 ### Notes:
-1. Update the placeholder GitHub repository link (`https://github.com/ghaziaskari/Postre.git`) if needed.
+1. Update the placeholder GitHub repository link (`https://github.com/armanghazi/Postre.git`) if needed.
 2. Replace the license section with your preferred license, if different.
 
 Let me know if you'd like further adjustments! 🚀
