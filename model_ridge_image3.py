@@ -143,9 +143,9 @@ def main():
         y_pred = model.predict(X_test)
 
         # Metrics
-        accuracy = accuracy_score(y_test, y_pred)
-        f1 = f1_score(y_test, y_pred, average='weighted')
-        recall = recall_score(y_test, y_pred, average='weighted')
+        #accuracy = accuracy_score(y_test, y_pred)
+        #f1 = f1_score(y_test, y_pred, average='weighted')
+        #recall = recall_score(y_test, y_pred, average='weighted')
 
         # Display results
         #st.subheader("Métricas de evaluación de modelos")
