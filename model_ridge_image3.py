@@ -148,10 +148,10 @@ def main():
         recall = recall_score(y_test, y_pred, average='weighted')
 
         # Display results
-        st.subheader("Métricas de evaluación de modelos")
-        st.write(f"**Accuracy:** {accuracy:.2f}")
-        st.write(f"**F1-Score:** {f1:.2f}")
-        st.write(f"**Recall:** {recall:.2f}")
+        #st.subheader("Métricas de evaluación de modelos")
+        #st.write(f"**Accuracy:** {accuracy:.2f}")
+        #st.write(f"**F1-Score:** {f1:.2f}")
+        #st.write(f"**Recall:** {recall:.2f}")
 
         # Save the model and features for user prediction
         st.session_state['model'] = model
