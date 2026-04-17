@@ -1,3 +1,16 @@
+---
+title: Dessert
+emoji: 🚀
+colorFrom: red
+colorTo: red
+sdk: docker
+app_port: 8501
+tags:
+- streamlit
+pinned: false
+short_description: Developed a machine learning model to predict dessert catego
+---
+
 # Postre
 # Menu Dataset Classification App
 
