@@ -12,7 +12,18 @@ jobs:
         with:
           fetch-depth: 0
           lfs: true
+
+      - name: Install Git LFS
+        run: git lfs install
+
+      - name: Track image files
+        run: |
+          git lfs track "img/*.jpg"
+          git lfs track "img/*.JPG"
+          git lfs track "img/*.png"
+
       - name: Push to hub
         env:
           HF_TOKEN: ${{ secrets.HF_TOKEN }}
-        run: git push --force https://armanghazi:$HF_TOKEN@huggingface.co/spaces/ghaziaskari/Dessert main
+        run: |
+          git push --force https://armanghazi:$HF_TOKEN@huggingface.co/spaces/ghaziaskari/Dessert main
