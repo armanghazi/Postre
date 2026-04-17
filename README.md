@@ -7,6 +7,7 @@ sdk: docker
 app_port: 8501
 tags:
 - streamlit
+app_file: model_ride_image3.py
 pinned: false
 short_description: Developed a machine learning model to predict dessert catego
 ---
